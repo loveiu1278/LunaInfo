@@ -461,39 +461,6 @@
             "url": "https://docs.google.com/uc?export=download&id=1kqQ7n2MQYmlSdQgkr-QIFnn4LFwtqPEq&confirm=t",
             "MD5": "d4da7e0b5ec42d037c99c97db06de3e2"
           }
-        },
-        {
-          "id": "korea:chat:mod@jar",
-          "name": "한글채팅",
-          "type": "File",
-          "artifact": {
-            "size": 144204,
-            "url": "https://github.com/loveiu1278/LunaInfo/raw/main/mod/CocoaInput-1.20.2.jar",
-            "MD5": "fbd0baedc0df5262276eb69ee3867ff8",
-            "path": "mods/CocoaInput-1.20.2.jar"
-          }
-        },
-        {
-          "id": "mini:map:mod@jar",
-          "name": "미니맵",
-          "type": "File",
-          "artifact": {
-            "size": 7138050,
-            "url": "https://github.com/loveiu1278/LunaInfo/raw/main/mod/journeymap-1.20.2.jar",
-            "MD5": "430c6ba3feabeede8c05f9aa6bc7a180",
-            "path": "mods/journeymap-1.20.2.jar"
-          }
-        },
-        {
-          "id": "OptFine:1.20.2:@jar",
-          "name": "옵티파인",
-          "type": "File",
-          "artifact": {
-            "size": 7192269,
-            "url": "https://github.com/loveiu1278/LunaInfo/raw/main/mod/OptiFine-1.20.2.jar",
-            "MD5": "d568142a38c41478a2e84c521c020ebe",
-            "path": "mods/OptiFine-1.20.2.jar"
-          }
         }
       ]
     }
