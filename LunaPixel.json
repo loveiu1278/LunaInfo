@@ -451,16 +451,6 @@
               }
             }
           ]
-        },
-        {
-          "id": "com.pixelmonmod:pixelmon:reforged@jar",
-          "name": "Pixelmon Mod",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 335172966,
-            "url": "https://docs.google.com/uc?export=download&id=1kqQ7n2MQYmlSdQgkr-QIFnn4LFwtqPEq&confirm=t",
-            "MD5": "d4da7e0b5ec42d037c99c97db06de3e2"
-          }
         }
       ]
     }
