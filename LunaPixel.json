@@ -486,7 +486,7 @@
         },
         {
           "id": "OptFine:1.20.2:@jar",
-          "name": "미니맵",
+          "name": "옵티파인",
           "type": "File",
           "artifact": {
             "size": 7192269,
