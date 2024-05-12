@@ -453,13 +453,14 @@
           ]
         },
         {
-          "id": "com.pixelmonmod:pixelmon:reforged@jar",
-          "name": "Pixelmon Mod",
-          "type": "ForgeMod",
+          "id": "luna:pixel:mod@jar",
+          "name": "루나픽셀",
+          "type": "File",
           "artifact": {
             "size": 339219432,
             "url": "https://drive.usercontent.google.com/download?id=1O1i2RkZCII5ZyYm0bloCJjs3HT3Nbf2G&export=download&authuser=1",
-            "MD5": "0f89ca38749ae6e87ef822271ba53a53"
+            "MD5": "0f89ca38749ae6e87ef822271ba53a53",
+            "path": "mods/lunapixel-9.2.7.jar"
           }
         },
         {
