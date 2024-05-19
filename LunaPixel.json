@@ -455,11 +455,12 @@
         {
           "id": "luna:pixel:mod@jar",
           "name": "루나픽셀",
-          "type": "ForgeMod",
+          "type": "File",
           "artifact": {
             "size": 342698572,
             "url": "https://drive.usercontent.google.com/download?id=1ukFy3l3PqhdU_Gx67ODpM92C-RvsqNLD&export=download&authuser=1",
-            "MD5": "d3ee1dbbf4fa925332ef3f4fa9d49827"
+            "MD5": "d3ee1dbbf4fa925332ef3f4fa9d49827",
+            "path": "mods/LunaPixel-1.20.2.jar"
           }
         },
         {
