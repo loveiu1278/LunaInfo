@@ -495,6 +495,17 @@
             "MD5": "d568142a38c41478a2e84c521c020ebe",
             "path": "mods/OptiFine-1.20.2.jar"
           }
+        },
+        {
+          "id": "servers.dat",
+          "name": "servers.dat",
+          "type": "File",
+          "artifact": {
+            "size": 74,
+            "url": "https://github.com/loveiu1278/LunaInfo/raw/main/mod/servers.dat",
+            "MD5": "747cd77a9da8c2e90482c509cc127e38",
+            "path": "servers.dat"
+          }
         }
       ]
     }
