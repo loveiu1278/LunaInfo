@@ -13,7 +13,7 @@
       "description": "1.21.1 NeoForge",
       "icon": "https://github.com/loveiu1278/LunaInfo/blob/main/icon/icon2.png",
       "version": "1.0.0",
-      "address": "localhost:25565",
+      "address": "pixelluna.kro.kr",
       "minecraftVersion": "1.21.1",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
