@@ -9,7 +9,7 @@
   "servers": [
     {
       "id": "luna-1.21.1",
-      "name": "루나픽셀",
+      "name": "루나픽셀몬",
       "description": "1.21.1 NeoForge",
       "icon": "https://drive.usercontent.google.com/u/0/uc?id=15n25YtgQRlW1s6IDVnmosRSwQ8RiXm8E&export=download",
       "version": "1.0.0",
