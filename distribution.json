@@ -1,0 +1,42 @@
+{
+  "version": "1.0",
+  "rss": null,
+  "discord": {},
+  "servers": [
+    {
+      "id": "neoforge-server",
+      "name": "My NeoForge Server",
+      "description": "NeoForge 기반 전용 Minecraft 서버",
+      "icon": "https://example.com/icon.png",
+      "version": "1.21.1",
+      "address": "play.example.com:25565",
+      "minecraftVersion": "1.21.1",
+      "neoForgeVersion": "21.1.203",
+      "mainClass": "cpw.mods.modlauncher.Launcher",
+      "libraries": [
+        {
+          "name": "net.neoforged:neoforge:21.1.203",
+          "url": "https://maven.neoforged.net/releases/"
+        }
+      ],
+      "assetIndex": "1.21",
+      "jvmArgs": [
+        "-Xmx4G",
+        "-Xms2G"
+      ],
+      "launchArgs": [
+        "--username", "${auth_player_name}",
+        "--version", "${version_name}",
+        "--gameDir", "${game_directory}",
+        "--assetsDir", "${assets_root}",
+        "--assetIndex", "${assets_index_name}",
+        "--uuid", "${auth_uuid}",
+        "--accessToken", "${auth_access_token}",
+        "--userType", "${user_type}",
+        "--versionType", "NeoForge",
+        "--server", "play.example.com",
+        "--port", "25565"
+      ]
+    }
+  ]
+}
