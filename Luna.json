@@ -41,7 +41,7 @@
               "artifact": {
                 "size": 21148,
                 "MD5": "fa38362d221e64d78993f7c3f6c39ae4",
-                "url": "https://github.com/loveiu1278/LunaInfo/releases/download/libraries/neoforge-21.1.203.json"
+                "url": "https://github.com/loveiu1278/LunaInfo/releases/download/mods/neoforge-21.1.203.json"
               }
             },
             {
@@ -52,7 +52,7 @@
               "artifact": {
                 "size": 5662367,
                 "MD5": "62dec27be3e5ba2880f8562075642851",
-                "url": "https://github.com/loveiu1278/LunaInfo/releases/download/libraries/neoforge-21.1.203-client.jar"
+                "url": "https://github.com/loveiu1278/LunaInfo/releases/download/mods/neoforge-21.1.203-client.jar"
               },
               "subModules": []
             },
@@ -64,7 +64,7 @@
               "artifact": {
                 "size": 12372293,
                 "MD5": "973b9700852b66bb7b74df75b0113db2",
-                "url": "https://github.com/loveiu1278/LunaInfo/releases/download/libraries/client-1.21.1-20240808.144430-extra.jar"
+                "url": "https://github.com/loveiu1278/LunaInfo/releases/download/mods/client-1.21.1-20240808.144430-extra.jar"
               },
               "subModules": []
             },
@@ -76,7 +76,7 @@
               "artifact": {
                 "size": 14464635,
                 "MD5": "21a31126d805df21389e0b2ff8cb7411",
-                "url": "https://github.com/loveiu1278/LunaInfo/releases/download/libraries/client-1.21.1-20240808.144430-slim.jar"
+                "url": "https://github.com/loveiu1278/LunaInfo/releases/download/mods/client-1.21.1-20240808.144430-slim.jar"
               },
               "subModules": []
             },
@@ -88,7 +88,7 @@
               "artifact": {
                 "size": 18725656,
                 "MD5": "24d790d385dff0146020f1875b969e52",
-                "url": "https://github.com/loveiu1278/LunaInfo/releases/download/libraries/client-1.21.1-20240808.144430-srg.jar"
+                "url": "https://github.com/loveiu1278/LunaInfo/releases/download/mods/client-1.21.1-20240808.144430-srg.jar"
               },
               "subModules": []
             },
