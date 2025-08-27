@@ -563,6 +563,26 @@
               }
             }
           ]
+        },
+        {
+          "id": "com.pixelmonmod:pixelmon:reforged@jar",
+          "name": "Pixelmon Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 387133899,
+            "url": "https://github.com/loveiu1278/LunaInfo/releases/download/mods/Pixelmon-1.21.1-9.3.8-universal.jar",
+            "MD5": "aec804b596cf17d901a010beb67689f8"
+          }
+        },
+        {
+          "id": "korea:chat:mod@jar",
+          "name": "한글채",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 165026,
+            "url": "https://github.com/loveiu1278/LunaInfo/raw/refs/heads/main/mods/caramelChat-mc1.21.1-neoforge-1.2.2.jar",
+            "MD5": "1df3413d9f3dc6fa819e388bba54f3da"
+          }
         }
       ]
     }
