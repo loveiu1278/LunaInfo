@@ -8,9 +8,9 @@
   },
   "servers": [
     {
-      "id": "Luna-1.21.1 테스트",
-      "name": "Luna테스트 (Minecraft 1.21.1)",
-      "description": "Luna Running Minecraft 1.21.1테스트 (NeoForge v21.1.203)",
+      "id": "Luna-1.21.1 테스트2",
+      "name": "Luna테스트2 (Minecraft 1.21.1)",
+      "description": "Luna Running Minecraft 1.21.1테스트2 (NeoForge v21.1.203)",
       "icon": null,
       "version": "1.0.0",
       "address": "localhost:25565",
